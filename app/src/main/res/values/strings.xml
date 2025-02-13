@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">VideoMaster</string>
+    <string name="add_video">Import Video</string>
+    <string name="create_engaging_videos">Create amazing videos</string>
+    <string name="home">Main Screen</string>
+    <string name="trim">Cut Video</string>
+    <string name="split">Divide</string>
+    <string name="effects">Visual Effects</string>
+    <string name="export">Save Video</string>
+    <string name="delete">Remove</string>
+    <string name="trim_video">Edit Video Length</string>
+    <string name="save_video">Save video to gallery</string>
+    <string name="add_overly">Add overlay to video</string>
+    <string name="add_text">Insert text into video</string>
+    <string name="add_audio">Add background music</string>
+    <string name="crop_video">Adjust video frame</string>
+    <string name="merge_video">Combine with another video or image</string>
+    <string name="loading">Loading Video…</string>
+    <string name="default_time_stamp">00:00 / 00:00</string>
+    <string name="trim_your_video">Customize video duration</string>
+    <string name="cancel">Discard</string>
+    <string name="keep_right_portion">Cut left part</string>
+    <string name="keep_left_portion">Cut right part</string>
+    <string name="loading_tag">Hold on! Your video is loading</string>
+    <string name="done">Finish</string>
+    <string name="please_wait">Processing your video, please wait.</string>
+    <string name="select_aspect_ratio">Choose Aspect Ratio</string>
+</resources>
